@@ -40,7 +40,7 @@ prompt-toolkit==1.0.15
 ptpython==0.41
 ptyprocess==0.6.0
 pyfiglet==0.7.5
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 pyserial==3.4
 pyserial-asyncio==0.4
